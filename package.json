@@ -2,10 +2,10 @@
   "name": "nextjs-folder",
   "version": "0.0.1",
   "displayName": "Nextjs Folder",
-  "icon": "icon.jpg",
+  "icon": "icon.png",
   "main": "./out/extension.js",
   "description": "Quickly create React component folders with TypeScript and CSS modules. Supports customizable style file extensions (.scss, .css, .less, .sass).",
-  "publisher": "wangxiaohai",
+  "publisher": "bryel",
   "license": "MIT",
   "activationEvents": [
     "onStartupFinished"
