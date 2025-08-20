@@ -1,6 +1,6 @@
 {
   "name": "nextjs-folder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Nextjs Folder",
   "icon": "icon.png",
   "main": "./out/extension.js",
